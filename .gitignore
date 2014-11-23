@@ -1,5 +1,11 @@
 *.class
 
+.DS_Store
+.idea/
+
+out/
+reports/
+
 # Package Files #
 *.war
 *.ear
